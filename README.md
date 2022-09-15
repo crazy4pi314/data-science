@@ -1,4 +1,4 @@
-# Data Science sample notebooks with the GitHub API
+# Data Science Jupyter Notebooks with the GitHub API
 
 Awesome extensions for working with Notebooks:
 - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
